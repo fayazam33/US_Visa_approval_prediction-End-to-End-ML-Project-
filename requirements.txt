@@ -1,0 +1,49 @@
+# Core Python dependencies
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+scipy
+
+# Machine Learning and Model Evaluation
+xgboost
+catboost
+lightgbm
+evidently==0.2.8
+
+# Deep Learning (optional)
+tensorflow
+torch
+torchvision
+torchaudio
+
+# Utilities
+PyYAML
+dill
+joblib
+
+# Database and Cloud
+pymongo
+boto3
+mypy-boto3-s3
+botocore
+
+# API / Backend
+fastapi
+uvicorn
+jinja2
+python-multipart
+
+# Logging, config, and file management
+from-root
+python-dotenv
+
+# Data validation / schema
+pydantic
+marshmallow
+
+# Model tracking (optional but useful)
+mlflow
+
+-e .
