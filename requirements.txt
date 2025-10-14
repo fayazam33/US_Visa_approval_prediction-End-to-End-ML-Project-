@@ -34,7 +34,7 @@ fastapi
 uvicorn
 jinja2
 python-multipart
-
+pymongo==4.15.3
 # Logging, config, and file management
 from-root
 python-dotenv
