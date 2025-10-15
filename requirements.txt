@@ -24,7 +24,6 @@ dill
 joblib
 
 # Database and Cloud
-pymongo
 boto3
 mypy-boto3-s3
 botocore
@@ -34,7 +33,8 @@ fastapi
 uvicorn
 jinja2
 python-multipart
-pymongo==4.15.3
+pymongo==4.8.0
+
 # Logging, config, and file management
 from-root
 python-dotenv
